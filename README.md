@@ -1,7 +1,7 @@
 # Playing Motus in Python !!
 
-> [!ERROR]
-> This version is still buggy, plase install the new version [3.1](https://github.com/Kgeek33/Motus-Python/tree/3.1)
+> [!WARNING]
+> This version is still buggy, please install the new version [3.1](https://github.com/Kgeek33/Motus-Python/tree/3.1)
 
 ## Requirements
 
