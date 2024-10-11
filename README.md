@@ -2,12 +2,7 @@
 
 ## Requirements
 
-- Python **>= 3.10**
-> [!NOTE]
-> You can play Motus wih a version Python < 3.10, but you need to get a version **< 4.0** of my program.
-> 
-> See [Tags](https://github.com/Kgeek33/Motus-Python/tags) to get a version of my program **< 4.0**
-
+- Python **>= 3.0**
 - Install a module who is called `rich`. To install this module:
   - Open Terminal
   - Verify if `pip` is works :
